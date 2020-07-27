@@ -1,0 +1,196 @@
+Enter the width of the board:7
+Enter the height of the board:6
+Connect Four:
+1: Min - max algorithm
+2: Min - max algorithm with alpha-beta pruning
+Option: 2
+Do you want to play first? [y/n]: y
+Enter the values between 0 and (width-1)
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+Human is 'O' and AI is 'X'
+Press ? if you want the best move.
+Your turn.
+Choose the column: 0
+Enter the values between 0 and (width-1)
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| O _ _ _ _ _ _ |
+AI turn.
+Enter the values between 0 and (width-1)
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| O _ _ X _ _ _ |
+Time taken: 1.427748 s
+Your turn.
+Choose the column: 1
+Enter the values between 0 and (width-1)
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| O O _ X _ _ _ |
+AI turn.
+Enter the values between 0 and (width-1)
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| O O _ X X _ _ |
+Time taken: 1.590412 s
+Your turn.
+Choose the column: 2
+Enter the values between 0 and (width-1)
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| O O O X X _ _ |
+AI turn.
+Enter the values between 0 and (width-1)
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ X _ _ |
+| O O O X X _ _ |
+Time taken: 1.978304 s
+Your turn.
+Choose the column: 1
+Enter the values between 0 and (width-1)
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ O _ _ X _ _ |
+| O O O X X _ _ |
+AI turn.
+Enter the values between 0 and (width-1)
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ O _ X X _ _ |
+| O O O X X _ _ |
+Time taken: 1.726662 s
+Your turn.
+Choose the column: 1
+Enter the values between 0 and (width-1)
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ O _ _ _ _ _ |
+| _ O _ X X _ _ |
+| O O O X X _ _ |
+AI turn.
+Enter the values between 0 and (width-1)
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ X _ _ _ _ _ |
+| _ O _ _ _ _ _ |
+| _ O _ X X _ _ |
+| O O O X X _ _ |
+Time taken: 0.580240 s
+Your turn.
+Choose the column: 3
+Enter the values between 0 and (width-1)
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ X _ _ _ _ _ |
+| _ O _ O _ _ _ |
+| _ O _ X X _ _ |
+| O O O X X _ _ |
+AI turn.
+Enter the values between 0 and (width-1)
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ X _ _ _ _ _ |
+| _ O _ O _ _ _ |
+| _ O _ X X _ _ |
+| O O O X X _ X |
+Time taken: 1.409906 s
+Your turn.
+Choose the column: 5
+Enter the values between 0 and (width-1)
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ X _ _ _ _ _ |
+| _ O _ O _ _ _ |
+| _ O _ X X _ _ |
+| O O O X X O X |
+AI turn.
+Enter the values between 0 and (width-1)
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ X _ _ _ _ _ |
+| _ O _ O _ _ _ |
+| _ O _ X X X _ |
+| O O O X X O X |
+Time taken: 1.191497 s
+Your turn.
+Choose the column: 6
+Enter the values between 0 and (width-1)
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ X _ _ _ _ _ |
+| _ O _ O _ _ _ |
+| _ O _ X X X O |
+| O O O X X O X |
+AI turn.
+Enter the values between 0 and (width-1)
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ X _ _ _ _ _ |
+| _ O _ O _ _ X |
+| _ O _ X X X O |
+| O O O X X O X |
+Time taken: 0.401493 s
+Your turn.
+Choose the column: 2
+Enter the values between 0 and (width-1)
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ X _ _ _ _ _ |
+| _ O _ O _ _ X |
+| _ O O X X X O |
+| O O O X X O X |
+AI turn.
+Enter the values between 0 and (width-1)
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ X _ _ _ _ X |
+| _ O _ O _ _ X |
+| _ O O X X X O |
+| O O O X X O X |
+Time taken: 0.446524 s
+Your turn.
+Choose the column: 4
+Enter the values between 0 and (width-1)
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ X _ _ _ _ X |
+| _ O _ O O _ X |
+| _ O O X X X O |
+| O O O X X O X |
+AI turn.
+Enter the values between 0 and (width-1)
+| _ _ _ _ _ _ _ |
+| _ _ _ _ _ _ _ |
+| _ X _ _ _ _ X |
+| _ O _ O O X X |
+| _ O O X X X O |
+| O O O X X O X |
+AI Won!
